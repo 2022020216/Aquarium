@@ -1,0 +1,6 @@
+Githubだけでは上手くバージョン管理できないっぽいので、
+https://styly.cc/ja/tips/michi_unity_github/
+のpart 1,2の内容を設定する
+
+Unityのversionは2020.3.31f1
+https://unity3d.com/unity/qa/lts-releases
